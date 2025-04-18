@@ -23,7 +23,7 @@ Esse projeto foi feito de duas formas:
 - Ideal pra estrutura da página inteira.
 
 
-### LINK DO GRID: [text](https://victorraphaemilk.github.io/cssgrid/)
-
+### LINK DO GRID: [GRID](https://victorraphaemilk.github.io/cssgrid/)
+### LINK DO FLEX: [FLEX](https://victorraphaemilk.github.io/at_css2/)
 
 
